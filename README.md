@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -5,6 +6,8 @@
 
 Here are some ideas to get you started:
 -->
+
+I am now bridging the gap between LLM inference systems and their "Speed-of-Light", much as I once bridged the performance gap between CPU simulators and real silicon.
 
 - I am a deep learning performance architect in NVIDIA, working on LLM inference system analysis, benchmarking, and modeling.
     - I am systematically studying performance on emerging models (such as sparse attention models, video generation models) on cutting-edge hardwares.
